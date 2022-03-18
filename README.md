@@ -18,7 +18,14 @@
 <a href="https://www.credential.net/b0bf4376-deb7-458e-bfa7-84c425166dfc#gs.tnuj2b"><img height="100" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/42469610"></a>
 
 
-<!--
 --- 
 ### 🧰 Technology Toolbox
--->
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=blue)
+![](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=apple&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Tools-GCP-informational?style=flat&logo=googlecloud&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Tools-Azure_DevOps-informational?style=flat&logo=azuredevops&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Tools-Visual_Studio-informational?style=flat&logo=visualstudio&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Code-SQL-informational?style=flat&color=blue)
