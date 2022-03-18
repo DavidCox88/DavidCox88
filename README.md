@@ -9,7 +9,7 @@
  My name is David Cox and I am currently working as a DevOps Engineer at LBG. I love all things data and have formerly held roles in Data Engineering, Analytics, Data Science and Visulisation.
  
  --- 
- ### <img align="center" height="35" src="https://github.com/DavidCox88/DavidCox88/blob/profile-overhaul/images/gc-icon.png?raw=True"> Google Cloud
+ ### <img align="center" height="25" src="https://github.com/DavidCox88/DavidCox88/blob/profile-overhaul/images/gc-icon.png?raw=True"> Google Cloud
  
  I find cloud technology fascinating, and GCP is currently the focus of my personal development. Currently I am working towards the Professional Cloud DevOps Engineer and Professional Cloud Architect certifications. Please get in touch if you have any recommended resources for achieveing these certifications.
 
