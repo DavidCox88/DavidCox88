@@ -17,7 +17,7 @@
 
 ---
 ### 📜 Certifications
-<a href="https://www.credential.net/b0bf4376-deb7-458e-bfa7-84c425166dfc#gs.tnuj2b"><img height="100" src=""></a>
+<a href="https://www.credential.net/b0bf4376-deb7-458e-bfa7-84c425166dfc#gs.tnuj2b"><img height="100" src="https://images.credential.net/badge/tiny/xe9ygxmf_1660242215051_badge.png"></a>
 <a href="https://www.credential.net/1289d6be-fa9c-4ecc-b437-4eccdc1e36ba"><img height="100" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/48219581">
 
 
