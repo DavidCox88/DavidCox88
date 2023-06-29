@@ -2,8 +2,6 @@
 <a href="https://twitter.com/DavidCox88"><img height="40" src="https://github.com/DavidCox88/DavidCox88/blob/main/images/twitter.png?raw=true"></a>
 <a href="https://www.linkedin.com/in/david-ryan-cox-080688/"><img height="40" src="https://github.com/DavidCox88/DavidCox88/blob/main/images/linkedin.png?raw=true"></a>
 <a href="https://www.cloudskillsboost.google/public_profiles/97774a96-3f86-4035-9750-9161cb6adb06"><img height="40" src="https://github.com/DavidCox88/DavidCox88/blob/main/images/gc-icon.png?raw=true"></a>
-<a href="https://dev.to/davidcox88"><img height="40" src="https://github.com/DavidCox88/DavidCox88/blob/main/images/dev-rainbow.png?raw=true"></a>
-</p>
 
 ### 👋 Hi!
  
@@ -13,7 +11,7 @@
  --- 
  ### <img align="center" height="25" src="https://github.com/DavidCox88/DavidCox88/blob/main/images/gc-icon.png?raw=True"> Google Cloud
  
- I find cloud technology fascinating, and GCP is currently the focus of my personal development. Currently I am working towards the Professional Cloud DevOps Engineer and Professional Cloud Architect certifications. Please get in touch if you have any recommended resources for achieveing these certifications.
+ I find cloud technology fascinating, and GCP is currently the focus of my personal development. Join me on my journey as I upskill in Google Cloud. The majority of my Cloud upskilling will be focused around DevOps and Platform engineering, so expect to see concepts such as Containers, Kubernetes and IaC.
 
 ---
 ### 📜 Certifications
